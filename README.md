@@ -1,2 +1,2 @@
-# qpianoroll
+# QPianoroll
 PyQT pianoroll widget
